@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-My name is Eduardo and my nickname is Edu!
+My name is Eduardo and my nickname is Edu! Sou Estudante de Bacharelado em Tecnologia da Informação com experiência em liderança de projetos e desenvolvimento de software. Apaixonado por inteligência artificial e sempre em busca de aprender e aplicar novos conhecimentos. Experiência significativa em startups e projetos de tecnologia, com forte capacidade de resolução de problemas e trabalho em equipe.
 
  ## 🌱 Estou aprendendo
     
