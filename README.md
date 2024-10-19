@@ -8,13 +8,6 @@ My name is Eduardo and my nickname is Edu! Sou Estudante de Bacharelado em Tecno
  ### 🧠 Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-### 👨‍💻 Sistema Operacional
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### ⚒️ Ferramentas
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-
-
  ## 🤝 Contatos:
 
 <div>
